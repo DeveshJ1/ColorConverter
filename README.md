@@ -1,4 +1,4 @@
-**ColorConverter**
+**ColorConverter**<br>
 In this project, I created a color converter. The three files provide a simple implementation of a color converter (CSS named colors, RGB values, hex-representation).<br>
 Given a text file of color names and RGB components. The user can input a specific RGB component and the program returns the name, hexvalue, and the RGB component
 of the color. <br>
